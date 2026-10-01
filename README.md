@@ -1,7 +1,8 @@
 # DSA Practice
 
+![Tests](https://github.com/ChanHei419/dsa-practice/actions/workflows/tests.yml/badge.svg)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
-![Tests](https://img.shields.io/badge/tests-30%2B%20unittest-blue)
+![Tests](https://img.shields.io/badge/tests-28%20unittest-blue)
 ![Dependencies](https://img.shields.io/badge/dependencies-zero-success)
 
 Clean, from-scratch implementations of the data structures and algorithms I use most — with complexity notes and a full test suite.
